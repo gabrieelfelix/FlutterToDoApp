@@ -1,19 +1,22 @@
 # TO_DO_APP
 
-A new Flutter project created with FlutLab - https://flutlab.io
+Este é um projeto de estudo de um aplicativo To-Do desenvolvido em Flutter. Ele demonstra o uso do Provider para gerenciamento de estado e do SharedPreferences para armazenar as tarefas localmente no dispositivo.
 
-## Getting Started
+## Funcionalidades
 
-A few resources to get you started if this is your first Flutter project:
+- Adicionar tarefas à lista.
+- Marcar tarefas como concluídas.
+- Remover tarefas da lista.
+- Ordenar tarefas por ordem alfabética.
+- Persistência local dos dados com SharedPreferences.
 
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
+## Demonstração:
+![ezgif com-video-to-gif](https://github.com/gabrieelfelix/FlutterToDoApp/assets/102039571/10f1ef5d-430b-4208-a63f-d9f32fba100e)
 
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Tecnologias Utilizadas:
 
-## Getting Started: FlutLab - Flutter Online IDE
+- Flutter
+- Dart
 
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Join the discussion and conversation on https://flutlab.io/residents
+
+
