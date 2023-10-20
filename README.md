@@ -9,7 +9,7 @@ Este é um projeto de estudo de um aplicativo To-Do desenvolvido em Flutter. Ele
 - Ordenar tarefas por ordem alfabética.
 - Persistência local dos dados com SharedPreferences.
 
-## Demonstração:
+## Demonstração
 ![bloggif_65320ea97d5ac](https://github.com/gabrieelfelix/FlutterToDoApp/assets/102039571/87139a88-e129-423e-9e45-d9a11711bef3)
 
 
