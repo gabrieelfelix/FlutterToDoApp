@@ -5,7 +5,6 @@ Este é um projeto de estudo de um aplicativo To-Do desenvolvido em Flutter. Ele
 ## Funcionalidades
 
 - Adicionar tarefas à lista.
-- Marcar tarefas como concluídas.
 - Remover tarefas da lista.
 - Ordenar tarefas por ordem alfabética.
 - Persistência local dos dados com SharedPreferences.
