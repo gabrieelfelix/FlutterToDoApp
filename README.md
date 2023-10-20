@@ -11,7 +11,8 @@ Este é um projeto de estudo de um aplicativo To-Do desenvolvido em Flutter. Ele
 - Persistência local dos dados com SharedPreferences.
 
 ## Demonstração:
-![ezgif com-video-to-gif](https://github.com/gabrieelfelix/FlutterToDoApp/assets/102039571/10f1ef5d-430b-4208-a63f-d9f32fba100e)
+![bloggif_65320ea97d5ac](https://github.com/gabrieelfelix/FlutterToDoApp/assets/102039571/87139a88-e129-423e-9e45-d9a11711bef3)
+
 
 ## Tecnologias Utilizadas:
 
